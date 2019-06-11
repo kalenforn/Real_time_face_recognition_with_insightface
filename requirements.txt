@@ -1,0 +1,6 @@
+numpy
+opencv-python
+scipy
+sckiti-learn
+mxnet
+easydict
