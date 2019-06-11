@@ -1,5 +1,5 @@
-# video_face_recognition_python_mxnet_insightface
-本项目是基于python3的一个实时视频人脸识别项目，你可以用他这个项目来实现实时远程视频获取，并且在获取端进行识别，然后由识别端将数据发送给服务器，服务器端会实时显示，全项目依赖开源的InsightFace项目https://github.com/deepinsight/insightface  此处使用到的模型是mobilefacenet，你也可以到原项目地址下找其他的model使用
+# Real_time_face_recognition_with_insightface
+本项目是基于python3的一个实时视频人脸识别项目，你可以用他这个项目来实现实时远程视频获取，并且在获取视频端进行识别，然后由识别端将数据发送给服务器，服务器端会实时显示，全项目依赖开源的InsightFace项目https://github.com/deepinsight/insightface  此处使用到的模型是mobilefacenet，你也可以到原项目地址下找其他的model使用
 
 `pip3 install -U -r requirements.txt`
 
